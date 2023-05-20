@@ -45,7 +45,10 @@ POST: Set prices for each day during [star,end]
     price (string): Price of the room.
 
 3. Authentication and Security
-The API requires authentication to ensure data security and access control. Users need to include an access token in the request headers for authorization purposes. Detailed instructions for obtaining authentication credentials is provided at 2.1. Also, notice that API with * can be accessed without authentication.
+The API requires authentication to ensure data security and access control. 
+Users need to include an access token in the request headers for authorization purposes. 
+Detailed instructions for obtaining authentication credentials is provided at 2.1. 
+Also, notice that API with * can be accessed without authentication.
 
 4. Data Models
 
